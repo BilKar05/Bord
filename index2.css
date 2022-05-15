@@ -1,0 +1,50 @@
+.attribution{
+    background-color: rgb(196, 218, 235);
+    padding: 1px 5px;
+    text-decoration: none;
+    display: inline-block;
+    position: fixed;
+    top: 680px;
+    font-size: large;
+}
+.main-text{
+    font-size: 20px;
+    position: fixed;
+    left: 30%;
+    top: 5%;
+}
+.main-site-button{
+    top: 30px;
+}
+.second-site-button{
+    top: 95px;
+}
+.third-site-button{
+    top: 160px;
+}
+.fourth-site-button{
+    top: 225px;
+}
+.help-site{
+    top: 640px;
+}
+.main-site-button,.second-site-button,.third-site-button,.fourth-site-button,.help-site{
+    right: 20px;
+    position: fixed;
+    background-color:rgb(102, 152, 192);
+    border: none;
+    color: white;
+    padding: 17px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+.main-site-button:hover,.second-site-button:hover,.third-site-button:hover,.fourth-site-button:hover,.help-site:hover{
+    background-color:rgb(49, 73, 94);
+}
+.second-site-button{
+    border: 3px solid rgba(98, 98, 252, 0.541);
+}
