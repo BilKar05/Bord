@@ -49,7 +49,7 @@
     border-radius: 12px;
     cursor: pointer;
 }
-.main-site-button:hover,.second-site-button:hover,.third-site-button:hover,.fourth-site-button:hover,.help-site:hover{
+.main-site-button:hover,.second-site-button:hover,.third-site-button:hover,.fourth-site-button:hover,.help-site-button:hover{
     background-color:rgb(49, 73, 94);
 }
 .second-site-button{

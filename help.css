@@ -51,13 +51,13 @@
     border-radius: 12px;
     cursor: pointer;
 }
-.main-site-button:hover,.second-site-button:hover,.third-site-button:hover,.fourth-site-button:hover,.help-site:hover{
+.main-site-button:hover,.second-site-button:hover,.third-site-button:hover,.fourth-site-button:hover,.help-site-button:hover{
     background-color:rgb(49, 73, 94);
 }
 .gif{
     display: flex;
     justify-content: center;
 }
-.help-site{
+.help-site-button{
     border: 3px solid rgba(98, 98, 252, 0.541);
 }
