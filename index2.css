@@ -35,7 +35,7 @@
 .help-site-button{
     top: 640px;
 }
-.main-site-button,.second-site-button,.third-site-button,.fourth-site-button,.help-site{
+.main-site-button,.second-site-button,.third-site-button,.fourth-site-button,.help-site-button{
     right: 20px;
     position: fixed;
     background-color:rgb(102, 152, 192);
