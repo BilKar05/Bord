@@ -1,3 +1,4 @@
+/*Links*/
 .attribution{
     background-color: rgb(196, 218, 235);
     padding: 1px 5px;
@@ -7,12 +8,20 @@
     top: 680px;
     font-size: large;
 }
+
+
+
+/*Texts*/
 .main-text{
     font-size: 20px;
     position: fixed;
     left: 30%;
     top: 5%;
 }
+
+
+
+/*Right side Buttons*/
 .main-site-button{
     top: 30px;
 }
@@ -25,7 +34,7 @@
 .fourth-site-button{
     top: 225px;
 }
-.help-site{
+.help-site-button{
     top: 640px;
 }
 .main-site-button,.second-site-button,.third-site-button,.fourth-site-button,.help-site{
@@ -46,7 +55,8 @@
     background-color:rgb(49, 73, 94);
 }
 .gif{
-    right: 100px;
+    display: flex;
+    justify-content: center;
 }
 .help-site{
     border: 3px solid rgba(98, 98, 252, 0.541);
