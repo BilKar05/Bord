@@ -1,6 +1,5 @@
 /*Links*/
 .attribution{
-    background-color: rgb(196, 218, 235);
     padding: 1px 5px;
     text-decoration: none;
     display: inline-block;
@@ -10,15 +9,17 @@
 }
 
 
-
-/*Texts*/
+/*Content*/
 .main-text{
     font-size: 20px;
     position: fixed;
     left: 30%;
     top: 5%;
 }
-
+.gif{
+    display: flex;
+    justify-content: center;
+}
 
 
 /*Right side Buttons*/
@@ -41,7 +42,6 @@
     right: 20px;
     position: fixed;
     background-color:rgb(102, 152, 192);
-    border: none;
     color: white;
     padding: 17px 32px;
     text-align: center;
@@ -53,10 +53,6 @@
 }
 .main-site-button:hover,.second-site-button:hover,.third-site-button:hover,.fourth-site-button:hover,.help-site-button:hover{
     background-color:rgb(49, 73, 94);
-}
-.gif{
-    display: flex;
-    justify-content: center;
 }
 .help-site-button{
     border: 3px solid rgba(98, 98, 252, 0.541);

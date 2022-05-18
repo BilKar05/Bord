@@ -1,6 +1,5 @@
 /*Links*/
 .attribution{
-    background-color: rgb(196, 218, 235);
     padding: 1px 5px;
     text-decoration: none;
     display: inline-block;
@@ -11,14 +10,18 @@
 
 
 
-/*Texts*/
+/*Content*/
 .main-text{
-    font-size: 20px;
-    position: fixed;
-    left: 30%;
-    top: 5%;
+    font-size: medium;
+    text-align: center;
+    margin-top: 50px;
 }
-
+p{
+    font-family: Arial;
+}
+.coolabord{
+    text-align: center;
+}
 
 
 /*Right side Buttons*/
@@ -41,7 +44,6 @@
     right: 20px;
     position: fixed;
     background-color:rgb(102, 152, 192);
-    border: none;
     color: white;
     padding: 17px 32px;
     text-align: center;
