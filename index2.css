@@ -1,10 +1,10 @@
 /*Links*/
-.attribution{
+.attribution1{
     padding: 1px 5px;
     text-decoration: none;
     display: inline-block;
-    position: fixed;
-    top: 680px;
+    position: absolute;
+    top: 110%;
     font-size: large;
 }
 

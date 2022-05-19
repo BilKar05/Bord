@@ -3,8 +3,8 @@
     padding: 1px 5px;
     text-decoration: none;
     display: inline-block;
-    position: fixed;
-    top: 680px;
+    position: absolute;
+    top: 90%;
     font-size: large;
 }
 
@@ -13,14 +13,14 @@
 /*Content*/
 .main-text{
     font-size: 20px;
-    position: fixed;
+    position: absolute;
 }
 .second-text{
-    position: fixed;
+    position: absolute;
     top: 18%;
 }
 .third-text{
-    position: fixed;
+    position: absolute;
     top: 26%;
 }
 

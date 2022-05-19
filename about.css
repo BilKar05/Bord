@@ -3,7 +3,7 @@
     padding: 1px 5px;
     text-decoration: none;
     display: inline-block;
-    position: fixed;
+    position: absolute;
     top: 680px;
     font-size: large;
 }
